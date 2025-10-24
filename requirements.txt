@@ -1,0 +1,10 @@
+# 银行卡管理系统 v1.0 - 项目依赖
+
+# 当前版本使用Python标准库，无需额外依赖
+# Python版本要求: >=3.6
+
+# 未来版本可能需要的依赖:
+# mysql-connector-python  # MySQL数据库连接
+# PyQt5                   # GUI界面开发
+# cryptography           # 更强的加密功能
+
